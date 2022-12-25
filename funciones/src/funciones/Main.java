@@ -3,6 +3,7 @@ package funciones;
 public class Main {
 	
 	public static void main(String[] args) {
+		//Ejercicio Curso 3 Funciones
 		
 		System.out.println("Primera Parte: Funcion sumar");
 		
